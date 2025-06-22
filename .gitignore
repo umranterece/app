@@ -1,3 +1,5 @@
 data.txt
 dizin/*
 !dizin/acik_dosya.html
+node_modules/
+my-vue-project/dist/
